@@ -40,6 +40,8 @@ vignettes/*.pdf
 
 # Data
 1_data/td_data_coded_1000.csv
+1_data/mpnet.txt
+
 
 # DS Store
 .DS_Store
